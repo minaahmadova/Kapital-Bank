@@ -1,4 +1,4 @@
-# Kapital-Bank
+# Test-plan
 Test Plan
 Layihə adı
 - MyProject
